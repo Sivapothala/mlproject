@@ -8,4 +8,6 @@ catboost
 xgboost
 dill
 numpy==2.0.0rc2
+Flask
+
 # -e .
